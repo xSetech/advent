@@ -1,0 +1,6 @@
+[package]
+description = "Advent of Code - Day 1 Soln"
+name = "day1"
+version = "0.1.0"
+authors = ["Seth Junot <xsetech@gmail.com>"]
+edition = "2018"
