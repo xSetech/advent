@@ -1,6 +1,6 @@
 // Day 1 inputs
 
-pub static PART_1_INPUT: &[i32] = &[
+pub static INPUT: &[i32] = &[
     1348,
     1621,
     1500,
